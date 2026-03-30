@@ -1,0 +1,2 @@
+# StockTradingSystem
+StockTradingSystem,use AI
