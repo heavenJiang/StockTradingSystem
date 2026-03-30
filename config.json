@@ -1,0 +1,10 @@
+{
+    "rebuild_model": true,
+    "target_stock_code": "000791",
+    "backtest_year": 1,
+    "stop_loss_threshold": 0.1,
+    "stop_profit_threshold": 0.1,
+    "model_path": "./models",
+    "init_capital": 50000.0,
+    "max_hold_days": 20
+}
